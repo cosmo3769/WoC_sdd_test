@@ -1,1 +1,4 @@
 datasets
+pedestrian_detection/train_samples
+pedestrian_detection/annotations_trainval2014.zip
+pedestrian_detection/train_samples.tar
